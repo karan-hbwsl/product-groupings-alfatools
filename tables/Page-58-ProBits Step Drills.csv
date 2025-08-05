@@ -1,0 +1,13 @@
+SETS,PCS.,CONTENTS,STOCK #,PER SET
+"A, B, C, Bright Finish",3,MBS3,1 Pc. Each,
+"A, B, C, TiN Coated",3,MBS3TN,1 Pc. Each,
+"A, B, C, Bright Finish",MBS13,3,,
+"A, C, F, Bright Finish",MBS15,3,,
+"A, E, F, K, Bright Finish",MBS14,4,,
+"A, E, F, C, K, M, Bright Finish",MBS16,6,,
+"C, H, K, M, Bright Finish",MBS17,4,,
+"A, B, C, TiN Coated",MBS13TN,3,,
+"A, C, F, TiN Coated",MBS15TN,3,,
+"A, E, F, K, TiN Coated",MBS14TN,4,,
+"A, E, F, C, K, M, TiN Coated",MBS16TN,6,,
+"C, H, K, M, TiN Coated",MBS17TN,4,,
