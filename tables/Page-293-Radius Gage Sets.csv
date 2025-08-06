@@ -1,0 +1,8 @@
+Stock #,NO. OF BLADES,DESCRIPTION,RADIUS RANGE
+RG1,16, ,.010 - .100 by .050
+RG2,16, ,.120 - .220 by .20
+RG4,32, ,.240 - .500 by .50
+RG5,8,"9/16"" to 1"" by 16ths",
+RG6,25,"H 25 1 9 / / 6 3 4 2 "" to 1 1 7 /2 /6 "" by 64ths",
+RG7,26,Metric 0 .5mm - 13mm by 0 .5mm,
+RG8,25,.010 - .100 by .050,

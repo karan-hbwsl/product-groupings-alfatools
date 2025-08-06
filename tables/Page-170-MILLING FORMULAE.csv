@@ -1,0 +1,5 @@
+FORMULA,DESCRIPTION
+RPM = SFM x 3.82 / tool diameter,Revolutions per minute (RPM): Number of revolutions the cutter has in one minute.
+IPM = RPM x number of flutes x chip load,Inches per minute (IPM): Number of inches the cutter passes through the workpiece
+Chip load = IPM / RPM x number of flutes,Chip load: Amount each flute cuts during a single revolution of the cutting tool.
+SFM = .262 x tool diameter x RPM,Surface feet per minute (SFM): Number of feet a given point on the circumference of the cutter travels per minute.

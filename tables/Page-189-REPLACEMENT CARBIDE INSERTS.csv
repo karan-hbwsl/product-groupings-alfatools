@@ -1,0 +1,7 @@
+STYLE,COATING,MATERIALS,APPLICATIONS,STOCK #
+CCMT 21.51,TiAlN,STAINLESS STEEL,"Steels, Stainless, Milling, Turning, Drilling, Threading",BBR310
+CCMT 32.51,TiAlN,"Steels, Stainless, Milling, Turning, Drilling, Threading",BBR320,
+CCMT 32.52,TiAlN,"Cast Irons, HRSA Drilling, Threading",BBR330,
+CCGT 21.51,Uncoated,"Aluminum, Fiberglass, Turning",BBR410,
+CCGT 32.51,Uncoated,Turning,BBR420,
+CCGT 32.52,Uncoated,"Plastic, Teflon, Brass",BBR430,

@@ -87,4 +87,4 @@ def process_pdf_whole_page_text(pdf_path, start_page=0, end_page=None):
             split_and_save_csvs_from_response(csv_text, page_num)
 
 # Run the script
-process_pdf_whole_page_text("publication.pdf", start_page=25, end_page=26)
+process_pdf_whole_page_text("publication.pdf", start_page=200, end_page=300)
