@@ -1,0 +1,10 @@
+TYPE,COLOR,VISCOSITY (CPS),BASE,STRENGTH (PSI),TEMPERATURE RANGE (OF),CURE SPEED (SEC.),FULL CURE (HR.),TYPE.1
+RP5,Clear,5,Ethyl,2700/4200,-65 to 180,5 sec.,24 hr.,Type II
+RP30,Clear,30,Ethyl,2800/4200,-65 to 180,15 sec.,24 hr.,Type II
+RP100,Clear,100,Ethyl,2800/4300,-65 to 180,15 sec.,24 hr.,Type II
+RP1500,Clear,1500,Ethyl,2500/4200,-65 to 180,25 sec.,24 hr.,Type II
+HP1000,Black,1000,Modified Ethyl,3500,-65 to 220,35 sec.,24 hr.,Type I
+TS2400,Clear,2400,Methyl,3300,-65 to 225,45 sec.,24 hr.,Type II
+M100,Clear,100,Ethyl,2700/4000,-65 to 180,10 sec.,24 hr.,Type II
+SI120,Clear,120,Ethyl,2800/4300,-65 to 180,15 sec.,24 hr.,Type II
+GEL,Clear,Paste,Ethyl,2500,-65 to 180,45 sec.,24 hr.,
